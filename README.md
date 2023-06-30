@@ -1,2 +1,2 @@
 # minesweeper_ai
-For our decision theory project, we opted to construct an Artificial Intelligence system in the form of a rational agent for the Minesweeper game. Employing a value iteration approach, we developed an abstract policy that enables our agent to achieve an average win rate of 3 to 4 times higher than that of a random agent.
+For our decision theory project we decided to build an artificial intelligence system in form of rational agent for minesweeper game. We used a value iteration approach that created an abstract policy with which our agent wins on average 3 to 4 times more games than a random agent.
